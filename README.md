@@ -1,5 +1,5 @@
 # How to install and use
-$ git install https://github.com/postrequest69/Selfbot-lol.git
+$ git clone https://github.com/postrequest69/Selfbot-lol.git
 
 $ cd Selfbot-lol
 
